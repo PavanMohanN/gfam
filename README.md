@@ -1,4 +1,5 @@
-# Machine Learning Approaches for Efficient FFT Approximation in OFDM Systems: A Data-Driven Analysis
+![image](https://github.com/user-attachments/assets/f57d8e33-693c-4635-9dfa-d5983288849a)
+
 
 ### Can Global Function Approximation Methods Approximate Fast Fourier Transforms?
 
