@@ -33,3 +33,24 @@ You can install the necessary Python libraries using pip:
 ```bash
 pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
 
+<h2>Description of Files</h2>
+
+<h3>MATLAB Files</h3>
+<ul>
+    <li><strong>FFT_1_method.mlx</strong>: 
+        <p>This file implements the FFT1 method, generating a dataset for the standard FFT approach. It creates synthetic signals and computes their FFTs, which serve as the ground truth for model training.</p>
+    </li>
+    <li><strong>FFT_2_method.mlx</strong>: 
+        <p>This file implements the FFT2 method, generating data for the windowed data processing technique. Similar to FFT1, it produces datasets that reflect a different processing approach, aimed at training machine learning models.</p>
+    </li>
+</ul>
+
+<h3>Python Files</h3>
+<ul>
+    <li><strong>method1.ipynb</strong>: 
+        <p>This notebook implements a dense neural network model to approximate the FFT operation based on the dataset generated from the FFT1 method. It includes data preprocessing, model training, and evaluation, alongside visualizations of training and validation losses.</p>
+    </li>
+    <li><strong>method2.ipynb</strong>: 
+        <p>This notebook implements the Adaline model for approximating the FFT based on the dataset from the FFT2 method. It follows a similar structure to <code>method1.ipynb</code>, emphasizing a different machine learning architecture while presenting comparative results.</p>
+    </li>
+</ul>
