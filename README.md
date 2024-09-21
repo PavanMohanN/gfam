@@ -32,6 +32,7 @@ For the Python notebooks, the following libraries are required:
 You can install the necessary Python libraries using pip:
 ```bash
 pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
+'''bash
 
 <h2>Description of Files</h2>
 
