@@ -1,6 +1,6 @@
 # Machine Learning Approaches for Efficient FFT Approximation in OFDM Systems: A Data-Driven Analysis
 
-# Can Global Function Approximation Methods Approximate Fast Fourier Transforms?
+### Can Global Function Approximation Methods Approximate Fast Fourier Transforms?
 
 ## Overview of the Project
 In this repository, we explore the potential of machine learning models to approximate Fast Fourier Transforms (FFT) using two distinct methodologies. This project investigates how global function approximation techniques, specifically neural networks and the Adaline model, can replace conventional FFT processes in Orthogonal Frequency Division Multiplexing (OFDM) systems. Our goal is to provide a comprehensive analysis of these approaches, including the performance metrics such as Mean Squared Error (MSE) and Mean Absolute Error (MAE), alongside visual comparisons through various plots.
