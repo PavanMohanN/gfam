@@ -57,3 +57,13 @@ pip install tensorflow numpy pandas matplotlib seaborn scikit-learn</code>
         <p>This notebook implements the Adaline model for approximating the FFT based on the dataset from the FFT2 method. It follows a similar structure to <code>method1.ipynb</code>, emphasizing a different machine learning architecture while presenting comparative results.</p>
     </li>
 </ul>
+
+`Created in Sep 2024`
+
+`@author: Pavan Mohan Neelamraju`
+
+`Affiliation: Indian Institute of Technology Madras`
+
+**Email**: npavanmohan3@gmail.com
+
+**Personal Website 🔴🔵**: [[pavanmohan.netlify.app](https://pavanmohan.netlify.app/)]
